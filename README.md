@@ -21,8 +21,7 @@ Password Generator is a simple tool designed to help you create strong and secur
 - Avoid using common words or phrases.
 - Make your password at least 8 characters long.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## Author
-This project is authored by Brajesh Kumar.
+This project is authored by [Brajesh Kumar](https://brajesh3.github.io/about/).
