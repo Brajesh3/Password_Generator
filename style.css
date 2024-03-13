@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #000; /* Black background */
+  color: #fff; /* White text */
+}
+
+header, footer {
+  padding: 20px;
+  background-color: #333; /* Dark gray background */
+}
+
+main {
+  padding: 20px;
+}
+
+h1, h2 {
+  color: #0f0; /* Neon green */
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #0f0; /* Neon green */
+  color: #000; /* Black text */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+button:hover {
+  background-color: #0f0cc; /* Lighter green on hover */
+}
+
+footer {
+  text-align: center;
+}
+
+#password-box {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: auto; /* Adjust width as needed */
+    white-space: nowrap; /* Prevent wrapping */
+    overflow: auto; /* Add horizontal scrollbar if needed */
+}
