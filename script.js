@@ -5,11 +5,11 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     document.getElementById('about-btn').addEventListener('click', function() {
-        window.location.href = 'https://brajesh3.github.io/about/';
+        window.location.href = 'https://brajesh.site/about/';
     });
 
     document.getElementById('projects-btn').addEventListener('click', function() {
-        window.location.href = 'https://brajesh3.github.io/projects/';
+        window.location.href = 'https://brajesh.site/projects/';
     });
 
     document.getElementById('password').addEventListener('click', copyPassword);
